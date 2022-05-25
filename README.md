@@ -14,6 +14,7 @@
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png">
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/C_logo_pur.png">
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png">
 </div>
 
 ### :gear:Tech stack:
@@ -35,7 +36,15 @@
 
 
 ### :thinking:Want to learn:
-
+<div class="row">
+  <img width="48" src="https://cdn.iconscout.com/icon/free/png-256/rails-3521664-2945108.png">
+  <img width="48" src="https://g.foolcdn.com/art/companylogos/square/mdb.png">
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png">
+  <img width="48" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">
+  <img width="48" src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg">
+ </div>
+  
 ### :clipboard: My profiles:
 
 
