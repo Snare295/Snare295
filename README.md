@@ -20,6 +20,7 @@
 ### :gear:Tech stack:
 <div class="row">
   <img width="48" src="https://pbs.twimg.com/profile_images/890513269131051008/x41AXaED_400x400.jpg">
+  <img width="48" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 </div>
 
 ### :desktop_computer:Tools i use: 
