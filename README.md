@@ -44,6 +44,7 @@
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png">
   <img width="48" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">
   <img width="48" src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg">
+  <img width="48" title="after making for linux as second language" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/800px-Rust_programming_language_black_logo.svg.png">
  </div>
   
 ### :clipboard: My profiles:
