@@ -15,12 +15,15 @@
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png">
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
 </div>
 
 ### :gear:Tech stack:
 <div class="row">
-  <img width="48" src="https://pbs.twimg.com/profile_images/890513269131051008/x41AXaED_400x400.jpg">
+  <img width="48" src="https://user-images.githubusercontent.com/72049715/212493308-62b24c6d-c535-4ad6-a165-567d3a172d6f.png">
   <img width="48" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+  <img width="48" src="https://user-images.githubusercontent.com/72049715/212493367-a74934f0-7d53-42ba-aa19-5a126cb39bc0.png">
+  <img width="48" src="https://user-images.githubusercontent.com/72049715/212493443-0eddc4e8-da2c-41ca-8d01-5b2fd9337a16.png">
 </div>
 
 ### :desktop_computer:Tools i use: 
@@ -38,9 +41,6 @@
 
 ### :thinking:Want to learn:
 <div class="row">
-  <img width="48" src="https://cdn.iconscout.com/icon/free/png-256/rails-3521664-2945108.png">
-  <img width="48" src="https://g.foolcdn.com/art/companylogos/square/mdb.png">
-  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png">
   <img width="48" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">
   <img width="48" src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg">
