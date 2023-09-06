@@ -24,6 +24,7 @@
   <img width="48" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <img width="48" src="https://user-images.githubusercontent.com/72049715/212493367-a74934f0-7d53-42ba-aa19-5a126cb39bc0.png">
   <img width="48" src="https://user-images.githubusercontent.com/72049715/212493443-0eddc4e8-da2c-41ca-8d01-5b2fd9337a16.png">
+  <img width="48" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">
 </div>
 
 ### :desktop_computer:Tools i use: 
@@ -42,7 +43,6 @@
 ### :thinking:Want to learn:
 <div class="row">
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png">
-  <img width="48" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">
   <img width="48" src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg">
   <img width="48" title="after making for linux as second language" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/800px-Rust_programming_language_black_logo.svg.png">
  </div>
